@@ -1,3 +1,4 @@
 This file is added within VSSSSS IDE
 
+adding new changes to learn about pull requests and merging. Chaging from my local branch within VS studio
 adding new changes to learn about pull requests and merging. Updating from master branch github
