@@ -1,3 +1,3 @@
 This file is added within VSSSSS IDE
 
-adding new changes to learn about pull requests and merging
+adding new changes to learn about pull requests and merging. Updating from master branch github
